@@ -8,7 +8,7 @@ Outside of class, I have been involved in student leadership and community-build
 ---
 
 ## My Photo
-![My Photo](Image/profile.jpeg)
+![My Photo](image/profile.jpeg)
 
 ---
 
