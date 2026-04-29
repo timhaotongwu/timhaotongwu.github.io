@@ -1,7 +1,7 @@
 # Haotong Wu
 
 ## About Me
-Hi, I'm Haotong Wu, a UC San Diego student interested in the intersection of business, technology, and global affairs. I enjoy learning how systems are built, how people make decisions, and how technology can be used to solve real problems.
+Hi, I’m Haotong Wu, a UC San Diego student interested in the intersection of business, technology, and global affairs. I enjoy learning how systems are built, how people make decisions, and how technology can be used to solve real problems.
 
 Outside of class, I have been involved in student leadership and community-building work. These experiences helped me understand that good projects are not only about technical skills, but also about communication, responsibility, and creating something useful for others.
 
