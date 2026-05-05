@@ -61,6 +61,8 @@ My favorite programming language is **Java** because it helps me think in a stru
 
 ## Code Example
 
+## Code Example
+
 ```java
 public class Hello {
     public static void main(String[] args) {
