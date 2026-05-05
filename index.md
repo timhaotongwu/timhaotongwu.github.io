@@ -60,9 +60,11 @@ My favorite programming language is **Java** because it helps me think in a stru
 ---
 
 ## Code Example
+
 ```java
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello, GitHub Pages!");
     }
 }
+```
